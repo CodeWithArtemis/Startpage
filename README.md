@@ -1,5 +1,3 @@
-# Evening-Startpage
-A comfy startpage
+A comfy nordzy startpage
 
-![screenshot](https://i.imgur.com/YCsxMbo.png)
-Inspired by https://github.com/jeroenpardon/sui
+![screenshot](./assets/img/240630_14h51m56s_screenshot.png)
